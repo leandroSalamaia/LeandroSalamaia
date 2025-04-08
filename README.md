@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Desenvolvedor C# | Apaixonado por .NET | Especialista em Backend & APIs 👋  
 
-<!--
-**leandroSalamaia/LeandroSalamaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor de Software C#** apaixonado por criar soluções robustas e escaláveis com **.NET**.  
+🔧 Foco em **backend, APIs RESTful, microsserviços e arquitetura limpa**.  
+📚 Sempre aprendendo e compartilhando conhecimento sobre **boas práticas, padrões de design e otimização de código**.  
 
-Here are some ideas to get you started:
+### 🛠️ **Tecnologias & Habilidades**  
+- **Linguagens:** C#, PHP, Js  
+- **Frameworks:** .NET, Entity Framework, Dapper, Vue js, Razor Pages, Blazor
+- **Cloud:** Azure (Containers, App Services, Functions, SQL Database)  
+- **Ferramentas:** Git, Docker, RabbitMQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 **Atualmente explorando**  
+- **.NET 8** e otimizações de performance
+
+### 📫 **Vamos conversar!**  
+- LinkedIn:[Meu Linkedin](https://br.linkedin.com/in/leandro-salamaia-613b03123) 
