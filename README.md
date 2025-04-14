@@ -1,6 +1,6 @@
-# 🚀 Desenvolvedor C# | Apaixonado por .NET | Especialista em Backend & APIs 👋  
+# 🚀 Desenvolvedor C# | .NET |👋  
 
-💻 **Desenvolvedor de Software C#** apaixonado por criar soluções robustas e escaláveis com **.NET**.  
+💻 **Desenvolvedor de Software C#** Soluções robustas e escaláveis com **.NET**.  
 🔧 Foco em **backend, APIs RESTful, microsserviços e arquitetura limpa**.  
 📚 Sempre aprendendo e compartilhando conhecimento sobre **boas práticas, padrões de design e otimização de código**.  
 
